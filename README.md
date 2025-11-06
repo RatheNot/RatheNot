@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **RatheNot/RatheNot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
