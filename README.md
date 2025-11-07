@@ -1,4 +1,27 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
+Ingredients:
+Sifted wheat flour - 500 g + extra for working with the dough
+Hot water (70-75 degrees Celsius) - 250 ml
+Egg (small) - 1 pc.
+Salt - 1 level teaspoon
+Odorless vegetable oil - 25 ml
+*
+For the filling:
+Meat (beef and pork) - 550 g
+Onion - 200 g
+Lard (optional, if lean meat) - 30 g
+Water - 70-80 g (depending on the consistency of the minced meat)
+Salt - 1 level teaspoon
+Ground black pepper - to taste
+*
+For cooking:
+Bay leaf - to taste
+Salt - to taste
+Black peppercorns - to taste
+Onion - 1/4 pc.
+*
+For serving:
+Butter - to taste
 <!--
 **RatheNot/RatheNot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
