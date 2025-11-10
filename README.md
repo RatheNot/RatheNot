@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 Ingredients:
 Sifted wheat flour - 500 g + extra for working with the dough
 Hot water (70-75 degrees Celsius) - 250 ml
